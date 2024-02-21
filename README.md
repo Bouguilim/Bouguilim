@@ -24,4 +24,6 @@ I'm a data enthusiast on a mission to decode the secrets of the digital universe
 
 ### Badges
 
-<a href="https://github.com/Bouguilim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouguilim&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/Bouguilim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouguilim&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+
