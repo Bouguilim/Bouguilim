@@ -8,7 +8,7 @@ I'm a data enthusiast on a mission to decode the secrets of the digital universe
 
 * 🌍  I'm based in Rabat, Morocco
 * ✉️  You can contact me at [oussama.bouguilim@gmail.com](mailto:oussama.bouguilim@gmail.com)
-* 🧠  I'm learning for GCP/AWS data related certificates
+* 🧠  I'm studying for GCP/AWS data related certificates
 
 ### Skills
 
